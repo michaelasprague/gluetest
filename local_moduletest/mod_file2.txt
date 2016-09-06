@@ -1,3 +1,5 @@
+THIS LINE ADDED ONLY IN REMOTE REPO
+
 this is mod_file2.txt
 
 Here's a modification.
